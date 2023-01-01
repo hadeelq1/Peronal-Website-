@@ -1,0 +1,50 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin-top: 0px;
+  font-family: 'Sacramento', cursive;
+  color: #189b9b;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #189b9b;
+  font-size: 15px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:  #11999E;
+}
+.topContainer{
+  background-color: #a7f0e2;
+  padding-top: 50px;
+}
+
+.Web{
+  text-decoration: underline;
+}
+
+.bottomCloud{
+  position: absolute;
+}
+.topCloud{
+  position: relative;
+  
+  left:200px;
+}
+
+.profile-Image{
+  width: 200px;
+  height: 200px;
+}
+
+.cake-Image{
+  width: 200px;
+  height: 200px;
+}
